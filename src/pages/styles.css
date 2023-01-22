@@ -1,0 +1,41 @@
+/* html,
+body,
+.section-images {
+  height: 100%;
+  margin: 0;
+  background-color: black;
+}
+.section-images {
+  text-align: center;
+}
+
+.section-images {
+    margin: auto 2em;
+    text-align: center;
+    
+  }
+  img {
+    display: block;
+    width: auto;
+    height: auto;
+    max-width: 100vw;
+    max-height: 90vh;
+    margin: 20px auto;
+} */
+
+body {
+    height: 100%;
+    margin: 0;
+    background-color: rgba(251, 153, 56, 0.8); 
+}
+
+svg {
+    height: 90vh;
+    width: 100vw;
+}
+
+
+img {
+    height: 308.62px;
+    width: 306.51px;
+}
