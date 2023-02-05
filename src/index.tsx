@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import './fonts/gistesy-webfont.woff2';
+import './fonts/gistesy-webfont.woff';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
