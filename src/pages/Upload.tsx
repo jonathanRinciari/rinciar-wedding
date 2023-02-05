@@ -120,7 +120,7 @@ export const UploadPage = () => {
         // Get the presigned URL
 
         await Promise.map(images, async ({image, file}: any) => {
-            await Promise.delay(1500);
+            await Promise.delay(750);
             const response = await fetch(API_ENDPOINT, {
                 method: 'POST',
                 body: JSON.stringify({
