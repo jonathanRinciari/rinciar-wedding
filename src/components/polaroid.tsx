@@ -1,6 +1,6 @@
 import React from 'react';
 
-export const Polarid = ({children}: React.PropsWithChildren) => {
+export const Polaroid = ({children}: React.PropsWithChildren) => {
 
     return (
         <svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
@@ -9,7 +9,7 @@ export const Polarid = ({children}: React.PropsWithChildren) => {
             <feGaussianBlur id="feGaussianBlur2914" stdDeviation="3.4782385"></feGaussianBlur>
           </filter>
         </defs>
-        <g id="layer1" transform="matrix(1, 0, 0, 1, -327.929779, -289.603241)">
+        <g id="layer1" transform="matrix(1.317432, 0, 0, 1.221582, -547.324158, -375.832031)">
           <g id="g3271" transform="translate(9.9102 9.3779)">
             <path id="rect2893" filter='url(#filter2912)' fill="#000000" d="m413.06 322.28h330.18v365.47s-82.55-7.18-165.09-7.18c-82.55 0-165.09 7.18-165.09 7.18v-365.47z"></path>
             <rect id="rect2889" fill="#f2f2f2"  height="362.18" width="330.18" y="318.05" x="413.06"></rect>
